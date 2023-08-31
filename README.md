@@ -72,17 +72,10 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 48%; background-color: #0d1117;">
+    <td style="width: 75%%; background-color: #0d1117;">
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nivethjunnithan&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD2C00&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF&hide_progress=true"/>
-        </a>
-      </p>
-    </td>
-    <td style="width: 48%; background-color: #0d1117;">
-      <p align="center">
-        <a href="https://github.com/nivethjunnithan?tab=repositories" target="_blank">
-          <img height="50" src="https://img.shields.io/badge/Public%20Repos-10-brightgreen?style=flat-square&logo=github&logoWidth=50"/>
         </a>
       </p>
     </td>
