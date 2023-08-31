@@ -53,22 +53,24 @@
 
 ---
 
-<!-- GitHub Stats and Top Languages -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <div style="flex-basis: 48%;">
-    <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nivethjunnithan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff"/>
-      </a>
-    </p>
-  </div>
-  <div style="flex-basis: 48%;">
-    <p align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nivethjunnithan&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
-      </a>
-    </p>
-  </div>
-</div>
+<!-- GitHub Stats and Top Languages Side by Side -->
+<table style="width: 100%; display: table;">
+  <tr>
+    <td style="width: 48%;">
+      <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nivethjunnithan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff"/>
+        </a>
+      </p>
+    </td>
+    <td style="width: 48%;">
+      <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nivethjunnithan&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- You can add more sections like projects, contributions, articles, etc. -->
