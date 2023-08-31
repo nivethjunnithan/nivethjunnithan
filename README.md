@@ -56,14 +56,14 @@
 <!-- GitHub Stats and Top Languages Side by Side -->
 <table style="width: 100%; display: table;">
   <tr>
-    <td style="width: 48%;">
+    <td style="width: 48%; background-color: #0d1117;">
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nivethjunnithan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff"/>
         </a>
       </p>
     </td>
-    <td style="width: 48%;">
+    <td style="width: 48%; background-color: #0d1117;">
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nivethjunnithan&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
@@ -72,17 +72,17 @@
     </td>
   </tr>
   <tr>
-    <td style="width: 48%;">
+    <td style="width: 48%; background-color: #0d1117;">
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nivethjunnithan&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD2C00&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF&hide_progress=true"/>
         </a>
       </p>
     </td>
-    <td style="width: 48%;">
+    <td style="width: 48%; background-color: #0d1117;">
       <p align="center">
         <a href="https://github.com/nivethjunnithan?tab=repositories" target="_blank">
-          <img height="40" src="https://img.shields.io/badge/Public%20Repos-10-brightgreen?style=flat-square&logo=github&logoWidth=40"/>
+          <img height="20" src="https://img.shields.io/badge/Public%20Repos-10-brightgreen?style=flat-square&logo=github&logoWidth=20"/>
         </a>
       </p>
     </td>
