@@ -81,8 +81,8 @@
     </td>
     <td style="width: 48%;">
       <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=nivethjunnithan&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
+        <a href="https://github.com/nivethjunnithan?tab=repositories" target="_blank">
+          <img height="180em" src="https://img.shields.io/badge/Public%20Repos-10-brightgreen?style=flat-square&logo=github"/>
         </a>
       </p>
     </td>
