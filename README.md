@@ -71,14 +71,5 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" style="text-align: center; background-color: #0d1117;">
-      <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="250cm" src="https://github-readme-streak-stats.herokuapp.com/?user=nivethjunnithan&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD2C00&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF&hide_progress=true"/>
-        </a>
-      </p>
-    </td>
-  </tr>
 </table>
 <!-- You can add more sections like projects, contributions, articles
