@@ -79,13 +79,6 @@
         </a>
       </p>
     </td>
-    <td style="width: 48%;">
-      <p align="center">
-        <a href="https://wakatime.com/">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=nivethjunnithan&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
-        </a>
-      </p>
-    </td>
   </tr>
 </table>
 
