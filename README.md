@@ -82,7 +82,7 @@
     <td style="width: 48%;">
       <p align="center">
         <a href="https://github.com/nivethjunnithan?tab=repositories" target="_blank">
-          <img height="180em" src="https://img.shields.io/badge/Public%20Repos-10-brightgreen?style=flat-square&logo=github"/>
+          <img height="20" src="https://img.shields.io/badge/Public%20Repos-10-brightgreen?style=flat-square&logo=github&logoWidth=20"/>
         </a>
       </p>
     </td>
