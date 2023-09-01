@@ -59,14 +59,14 @@
     <td style="width: 48%; background-color: #0d1117;">
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abcd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff"/>
         </a>
       </p>
     </td>
     <td style="width: 48%; background-color: #0d1117;">
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abcd&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
         </a>
       </p>
     </td>
