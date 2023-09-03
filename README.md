@@ -18,7 +18,7 @@
 
 - 👨‍🎓 &ensp;Check out my portfolio:
   <a href="https://nivethjunnithan.github.io/">
-  <img align="center" src="https://img.shields.io/badge/github/nivethjunnithan.svg?label=Portfolio&style=social" alt="Portfolio" style="vertical-align: middle;"/>
+  <img align="center" src="https://img.shields.io/github/followers/nivethjunnithan.svg?label=@nivethjunnithan&style=social" alt="Portfolio" style="vertical-align: middle;"/>
   </a>
 
 #### How to Reach Me:
