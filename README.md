@@ -58,7 +58,8 @@
 
 ---
 
-<!-- GitHub Stats and Top Languages Side by Side -->
+#### GitHub Stats and Top Languages
+
 <table style="width: 100%; display: table;">
   <tr>
     <td style="width: 48%; background-color: #0d1117;">
