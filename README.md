@@ -79,6 +79,6 @@
 
 #### My Playlist 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/5balmpQwOEwgThPeTp3NtX?si=a9b101a4f0d14b11)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31ezri3yej5mny5mmb4s3eipjuiy)
 
 <!-- You can add more sections like projects, contributions, articles -->
