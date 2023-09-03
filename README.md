@@ -9,17 +9,17 @@
 - 🔭 &ensp;Passionate about **Fullstack Web Development**, specializing in **React.js** and **Spring Boot**.
 
 - 🌱 &ensp;Enthusiastic about **Open Source Projects** and collaborating with fellow developers.
-
 - 💬 &ensp;Let's discuss everything related to **Technology**, **Science**, and **anything new**.
-
 - 😅 &ensp;Fun fact: I'm all about coding and tech, not so much about small talk.
 
 #### Portfolio:
 
-- 👨‍🎓 &ensp;Check out my portfolio:
+<div style="display: flex; align-items: center;">
+  <span>Check out my portfolio: &nbsp;&nbsp;</span>
   <a href="https://nivethjunnithan.github.io/">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-?style=social&logo=github" alt="Portfolio" style="vertical-align: middle;"/>
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github" alt="Portfolio" style="vertical-align: middle;"/>
   </a>
+</div>
 
 #### How to Reach Me:
 
