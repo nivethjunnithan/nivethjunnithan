@@ -28,17 +28,17 @@
 
 - 📧 &ensp;Shoot me an email:
   <a href="mailto:nivethunnithan@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/nivethunnithan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;" />
+  <img align="center" src="https://img.shields.io/badge/nivethunnithan@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle; color: black;" />
   </a>
 
 - 💼 &ensp;Connect with me on LinkedIn:
   <a href="https://www.linkedin.com/in/nivethjunnithan/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/nivethjunnithan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;" />
+  <img align="center" src="https://img.shields.io/badge/nivethjunnithan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle; color: black;" />
   </a>
 
 - 📷 &ensp;Follow my coding journey on Instagram:
   <a href="https://instagram.com/_niveth.j.unnithan_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/_niveth.j.unnithan_-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle;" />
+  <img align="center" src="https://img.shields.io/badge/_niveth.j.unnithan_-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle; color: black;" />
   </a>
 
 #### Technologies I Love:<br>
