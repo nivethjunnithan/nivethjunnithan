@@ -28,7 +28,7 @@
   </a>
 - 📧 &ensp;Shoot me an email:
   <a href="mailto:nivethunnithan@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white&label=nivethunnithan@gmail.com" alt="Email" style="vertical-align: middle;" />
   </a>
 - 💼 &ensp;Connect with me on LinkedIn:
   <a href="https://www.linkedin.com/in/nivethjunnithan/" target="_blank">
