@@ -9,7 +9,7 @@
 - 🔭 Passionate about **Fullstack Web Development**, specializing in **React.js** and **Spring Boot**.
 - 🌱 Enthusiastic about **Open Source Projects** and collaborating with fellow developers.
 - 💬 Let's discuss everything related to **Technology**, **Science**, and **anything new**.
-- 😅 Fun fact: I'm all about coding and tech, not so much about small talk.
+- 😅 Fun fact: I'm not all about coding and tech, I'm avidly into the rhythm of **books**, **poems**, and **music**.
 
 #### Portfolio:
 
