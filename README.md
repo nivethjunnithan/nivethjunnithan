@@ -23,7 +23,7 @@
 
 - 📫 &ensp;Connect with me on Twitter:
   <a href="https://twitter.com/nivethjunnithan" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/@nivethjunnithan-1DA1F2?style=flat-square&logo=twitter&logoColor=white" style="vertical-align: middle;" />
+  <img align="center" src="https://img.shields.io/badge/@nivethjunnithan-1DA1F2?style=flat-square&logo=twitter&logoColor=white" style="vertical-align: middle; color: black;" />
   </a>
 
 - 📧 &ensp;Shoot me an email:
