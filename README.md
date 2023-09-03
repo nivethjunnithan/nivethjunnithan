@@ -15,7 +15,7 @@
 #### Portfolio:
 
 - 👨‍🎓 &ensp;Check out my portfolio:
-  <a href="https://nivethjunnithan.github.io/">
+  <a href="https://nivethjunnithan.github.io/" style="background-color: #181717;">
   <img align="center" src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github" alt="Portfolio" style="vertical-align: middle;"/>
   </a>
 
