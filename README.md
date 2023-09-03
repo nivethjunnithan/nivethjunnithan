@@ -56,8 +56,6 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
-
 #### GitHub Stats and Top Languages
 
 <table style="width: 100%; display: table;">
@@ -78,4 +76,9 @@
     </td>
   </tr>
 </table>
+
+#### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s?si=8287620a4ef948e3)
+
 <!-- You can add more sections like projects, contributions, articles -->
