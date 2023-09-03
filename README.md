@@ -77,7 +77,7 @@
   </tr>
 </table>
 
-#### Now Playing 🎧
+#### My Playlist 🎧
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/5balmpQwOEwgThPeTp3NtX?si=a9b101a4f0d14b11)
 
