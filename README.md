@@ -14,12 +14,10 @@
 
 #### Portfolio:
 
-<div style="display: flex; align-items: center;">
-  <span>Check out my portfolio: &nbsp;&nbsp;</span>
+- 👨‍🎓 &ensp;Check out my portfolio:
   <a href="https://nivethjunnithan.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github" alt="Portfolio" style="vertical-align: middle;"/>
+  <img align="center" src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github" alt="Portfolio" style="vertical-align: middle;"/>
   </a>
-</div>
 
 #### How to Reach Me:
 
