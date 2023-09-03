@@ -79,6 +79,6 @@
 
 #### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s?si=8287620a4ef948e3)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/5balmpQwOEwgThPeTp3NtX?si=a9b101a4f0d14b11)
 
 <!-- You can add more sections like projects, contributions, articles -->
