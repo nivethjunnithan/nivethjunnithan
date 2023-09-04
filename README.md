@@ -78,4 +78,14 @@
 
 #### My Playlist 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31ezri3yej5mny5mmb4s3eipjuiy)
+<!-- Centered My Playlist Section in a Table -->
+<table style="width: 100%; height: 100vh; display: table;">
+  <tr>
+    <td style="width: 100%; height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+      <a href="https://open.spotify.com/user/31ezri3yej5mny5mmb4s3eipjuiy" target="_blank">
+        <img src="https://github-readme-remake.vercel.app/api/spotify" />
+      </a>
+    </td>
+  </tr>
+</table>
+
