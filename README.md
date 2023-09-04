@@ -78,9 +78,4 @@
 
 #### My Playlist 🎧
 
-<!-- Centered Spotify Section -->
-<div style="text-align: center;">
-  <img src="https://github-readme-remake.vercel.app/api/spotify" style="margin: 0 auto;" />
-</div>
-
-<!-- You can add more sections like projects, contributions, articles -->
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31ezri3yej5mny5mmb4s3eipjuiy)
