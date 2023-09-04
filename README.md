@@ -6,9 +6,9 @@
 #### About Me:
 
 - 🔭 Passionate about **Fullstack Web Development**, specializing in **React.js** and **Spring Boot**.
-- 🌱 Enthusiastic about **Open Source Projects** and collaborating with fellow developers.
-- 💬 Let's discuss everything related to **Technology**, **Science**, and **anything new**.
-- 😅 Fun fact: I'm not all about coding and tech, I'm avidly into the rhythm of **books**, **poems**, and **music**.
+- 🌱 Enthusiastic about **Open Source Projects** and collaborating with **fellow developers**.
+- 💬 Let's engage in conversations about **technology**, **science**, and **all things new**.
+- 😅 Fun fact: I'm not all about coding and tech, I'm avidly into the realm of **books**, **poems**, and **music**.
 
 #### Portfolio:
 
