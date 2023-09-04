@@ -1,7 +1,6 @@
 <!-- Header with Banner Image -->
 <div>
-  <img src="./img/hi.gif" alt="Hi there!" style="width: 100px;" /><br>
-  <h1>Hey there! I'm Niveth</h1>
+  <img src="./img/background.jpg" alt="Hi there!" /><br>
 </div>
 
 #### About Me:
@@ -22,7 +21,7 @@
 
 - 📫 Connect with me on Twitter:
   <a href="https://twitter.com/nivethjunnithan" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/@nivethjunnithan-1DA1F2?style=flat-square&logo=twitter&logoColor=white" style="vertical-align: middle;" />
+  <img align="center" src="https://img.shields.io/badge/niveth.j.unnithan-1DA1F2?style=flat-square&logo=twitter&logoColor=white" style="vertical-align: middle;" />
   </a>
 - 📧 Shoot me an email:
   <a href="mailto:nivethunnithan@gmail.com" target="_blank">
@@ -30,11 +29,11 @@
   </a>
 - 💼 Connect with me on LinkedIn:
   <a href="https://www.linkedin.com/in/nivethjunnithan/" target="_blank" class="badge-link">
-  <img align="center" src="https://img.shields.io/badge/nivethjunnithan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;" />
+  <img align="center" src="https://img.shields.io/badge/niveth.j.unnithan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;" />
   </a>
 - 📷 Follow my coding journey on Instagram:
   <a href="https://instagram.com/_niveth.j.unnithan_" target="_blank" class="badge-link">
-  <img align="center" src="https://img.shields.io/badge/_niveth.j.unnithan_-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle;" />
+  <img align="center" src="https://img.shields.io/badge/niveth.j.unnithan-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align: middle;" />
   </a>
 
 #### Technologies and Tools I Love:
