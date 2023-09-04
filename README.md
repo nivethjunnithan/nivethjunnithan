@@ -80,7 +80,7 @@
 
 #### My Playlist 🎧
 
-<div style="width: 50%; float: left;">
+<div style="width:auto; float: left;">
   <table style="width: 100%; display: table;">
     <tr>
       <td style="background-color: #0d1117;">
@@ -91,5 +91,3 @@
     </tr>
   </table>
 </div>
-
-<div style="clear: both;"></div>
