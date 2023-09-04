@@ -85,14 +85,7 @@
     <tr>
       <td style="background-color: #0d1117;">
         <a href="https://open.spotify.com/user/31ezri3yej5mny5mmb4s3eipjuiy" target="_blank">
-          <img height="180em" src="https://github-readme-remake.vercel.app/api/spotify" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="background-color: #0d1117;">
-        <a href="https://paypal.me/nivethjunnithan?locale.x=en_GB" target="_blank">
-          <img height="180em" src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee">
+          <img height="180em" width="180em" src="https://github-readme-remake.vercel.app/api/spotify" />
         </a>
       </td>
     </tr>
