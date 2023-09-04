@@ -79,13 +79,17 @@
 #### My Playlist 🎧
 
 <!-- Centered My Playlist Section in a Table -->
-<table style="width: 100%; height: 100vh; display: table;">
+<table style="width: 100%; display: table;">
   <tr>
-    <td style="width: 100%; height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+    <td style="width: 48%; background-color: #0d1117;">
       <a href="https://open.spotify.com/user/31ezri3yej5mny5mmb4s3eipjuiy" target="_blank">
         <img src="https://github-readme-remake.vercel.app/api/spotify" />
       </a>
     </td>
+    <td style="width: 48%; background-color: #0d1117;">
+      <a href="https://paypal.me/nivethjunnithan?locale.x=en_GB" target="_blank">
+        <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee">
+      </a>
+    </td>
   </tr>
 </table>
-
