@@ -81,7 +81,7 @@
 <!-- Centered My Playlist Section in a Table -->
 <table style="width: 100%; display: table;">
   <tr>
-    <td style="width: 48%; background-color: #0d1117;">
+    <td style="width: 100%; background-color: #0d1117;">
       <a href="https://open.spotify.com/user/31ezri3yej5mny5mmb4s3eipjuiy" target="_blank">
         <img src="https://github-readme-remake.vercel.app/api/spotify" />
       </a>
