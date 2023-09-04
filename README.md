@@ -85,7 +85,7 @@
     <tr>
       <td style="background-color: #0d1117;">
         <a href="https://open.spotify.com/user/31ezri3yej5mny5mmb4s3eipjuiy" target="_blank">
-          <img height="180em" width="1800em" src="https://github-readme-remake.vercel.app/api/spotify" />
+          <img src="https://github-readme-remake.vercel.app/api/spotify" />
         </a>
       </td>
     </tr>
