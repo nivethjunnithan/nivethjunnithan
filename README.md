@@ -92,7 +92,7 @@
     <tr>
       <td style="background-color: #0d1117;">
         <a href="https://paypal.me/nivethjunnithan?locale.x=en_GB" target="_blank">
-          <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee">
+          <img height="180em" src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee">
         </a>
       </td>
     </tr>
