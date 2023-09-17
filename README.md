@@ -70,7 +70,7 @@
       <td style="background-color: #0d1117;"">
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivethjunnithan&layout=compact&langs_count=15&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivethjunnithan&layout=compact&langs_count=16&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
         </a>
       </p>
     </td>
