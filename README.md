@@ -6,9 +6,10 @@
 #### About Me:
 
 - 🔭 Passionate about **Fullstack Web Development**, specializing in **React.js** and **Spring Boot**.
-- 🌱 Enthusiastic about **Open Source Projects** and collaborating with **fellow developers**.
+- 🌱 Currently expanding my expertise into **Digital Farming & Smart Agriculture**, leveraging **AI**, **IoT**, and **Data Science** to build sustainable tech-driven solutions for agriculture.
+- 🤝 Enthusiastic about **Open Source Projects** and collaborating with **fellow developers & researchers**.
 - 💬 Let's engage in conversations about **technology**, **science**, and **all things new**.
-- 😅 Fun fact: I'm not all about coding and tech, I'm avidly into the realm of **books**, **poems**, and **music**.
+- 😅 Fun fact: I'm not all about coding and tech — I'm avidly into the realm of **books**, **poems**, and **music**.
 
 #### Portfolio:
 
@@ -67,7 +68,7 @@
           </a>
         </p>
       </td>
-      <td style="background-color: #0d1117;"">
+      <td style="background-color: #0d1117;">
       <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivethjunnithan&layout=compact&langs_count=12&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
@@ -80,12 +81,12 @@
 
 #### My Playlist 🎧
 
-  <table style="width: 100%; display: table;">
-    <tr>
-      <td style="background-color: #0d1117;">
-        <a href="https://open.spotify.com/user/31ezri3yej5mny5mmb4s3eipjuiy" target="_blank">
-          <img src="https://github-readme-remake.vercel.app/api/spotify" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<table style="width: 100%; display: table;">
+  <tr>
+    <td style="background-color: #0d1117;">
+      <a href="https://open.spotify.com/user/31ezri3yej5mny5mmb4s3eipjuiy" target="_blank">
+        <img src="https://github-readme-remake.vercel.app/api/spotify" />
+      </a>
+    </td>
+  </tr>
+</table>
