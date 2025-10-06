@@ -81,14 +81,6 @@
   </table>
 </div>
 
-#### My Playlist 🎧
+### My Playlist 🎧
 
-<table style="width: 100%; display: table;">
-  <tr>
-    <td style="background-color: #0d1117;">
-      <a href="https://open.spotify.com/user/31ezri3yej5mny5mmb4s3eipjuiy" target="_blank">
-        <img src="https://github-readme-remake.vercel.app/api/spotify" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5balmpQwOEwgThPeTp3NtX?si=ba749b6608c443f3)
