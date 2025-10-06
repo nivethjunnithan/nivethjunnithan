@@ -81,6 +81,10 @@
   </table>
 </div>
 
-### My Playlist 🎧
+#### My Playlist 🎧
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5balmpQwOEwgThPeTp3NtX?si=ba749b6608c443f3)
+<p align="center">
+  <a href="https://open.spotify.com/playlist/5balmpQwOEwgThPeTp3NtX?si=ba749b6608c443f3" target="_blank">
+    <img src="https://img.shields.io/badge/Listen%20on%20Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist"/>
+  </a>
+</p>
