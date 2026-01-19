@@ -5,7 +5,8 @@
 
 #### About Me:
 
-- 🔭 Passionate about **Fullstack Web Development**, specializing in **React.js** and **Spring Boot**.
+- 🔭 Passionate about **Fullstack Web Development**, specializing in **React.js** and **Spring Boot**, with strong hands-on experience in **Python-based development**.
+- 🐍 Experienced in using **Python for data processing, automation, image processing, and machine learning**, including real-world projects.
 - 🌱 Currently expanding my expertise into **Digital Farming & Smart Agriculture**, leveraging **AI**, **IoT**, and **Data Science** to build sustainable tech-driven solutions for agriculture.
 - 🤝 Enthusiastic about **Open Source Projects** and collaborating with **fellow developers & researchers**.
 - 💬 Let's engage in conversations about **technology**, **science**, and **all things new**.
@@ -17,6 +18,18 @@
   <a href="https://nivethjunnithan.github.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/nivethjunnithan-181717?style=flat-square&logo=github" alt="Portfolio" style="vertical-align: middle; font-size: larger;"/>
   </a>
+
+#### Python & AI Work:
+
+- 🧠 Developed **Plant Doctor**, a Python-based model for detecting plant diseases using digital image processing and machine learning  
+  → Tools: **Python, OpenCV, Keras, NumPy**  
+  → Focus: Leaf image analysis, feature extraction, disease classification
+
+- ⚙️ Built Python scripts for **automation and data preprocessing**, improving workflow efficiency in multiple academic and personal projects
+
+- 📊 Worked with **Pandas and NumPy** for data analysis and transformation tasks
+
+- 🧪 Familiar with writing testable, modular Python code and integrating it into larger systems
 
 #### How to Reach Me:
 
@@ -47,10 +60,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
@@ -71,12 +89,12 @@
         </p>
       </td>
       <td style="background-color: #0d1117;">
-      <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivethjunnithan&layout=compact&langs_count=12&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
-        </a>
-      </p>
-    </td>
+        <p align="center">
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivethjunnithan&layout=compact&langs_count=12&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
+          </a>
+        </p>
+      </td>
     </tr>
   </table>
 </div>
