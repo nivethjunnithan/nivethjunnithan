@@ -84,7 +84,7 @@
       <td style="background-color: #0d1117;">
         <p align="center">
           <a href="https://github.com/stats-organization/github-stats-extended">
-            <img height="260em" src="https://github-stats-extended.vercel.app/api?username=nivethjunnithan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff"/>
+            <img height="260em" src="https://github-stats-extended.vercel.app/api?username=nivethjunnithan&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff"/>
           </a>
         </p>
       </td>
