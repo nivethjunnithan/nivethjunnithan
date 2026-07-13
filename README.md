@@ -91,7 +91,7 @@
       <td style="background-color: #0d1117;">
         <p align="center">
           <a href="https://github.com/stats-organization/github-stats-extended">
-            <img height="260em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nivethjunnithan&layout=donut&langs_count=12&exclude_repo=spring-boot,ai-rag&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
+            <img height="260em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nivethjunnithan&layout=donut&langs_count=12&exclude_repo=android_kernel_xiaomi_msm8953,coursera-university-of-washington&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
           </a>
         </p>
       </td>
