@@ -82,16 +82,16 @@
   <table style="width: 100%; display: table;">
     <tr>
       <td style="background-color: #0d1117;">
-        <p align="left">
+        <p align="center">
           <a href="https://github.com/stats-organization/github-stats-extended">
             <img height="260em" src="https://github-stats-extended.vercel.app/api?username=nivethjunnithan&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff"/>
           </a>
         </p>
       </td>
       <td style="background-color: #0d1117;">
-        <p align="right">
+        <p align="center">
           <a href="https://github.com/stats-organization/github-stats-extended">
-            <img height="260em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nivethjunnithan&layout=donut&langs_count=12&exclude_repo=android_kernel_xiaomi_msm8953,coursera-university-of-washington&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
+            <img height="260em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nivethjunnithan&layout=donut&langs_count=12&exclude_repo=android_kernel_xiaomi_msm8953,coursera-university-of-washington&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=ffffff"/>
           </a>
         </p>
       </td>
